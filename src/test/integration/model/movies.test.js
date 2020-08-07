@@ -8,7 +8,7 @@ describe("movies", () => {
         const movies = new Movies();
         const data = await movies.getMovies();
 
-        expect(data.length).toBeGreaterThan(0);
+        expect(data.length).toBeGreaterThan(0)
 
     });
 
