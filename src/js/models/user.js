@@ -1,9 +1,5 @@
 class User {
 
-    constructor() {
-
-        console.log('tnis is the  use class')
-    }
 
     getUsers() {
 
